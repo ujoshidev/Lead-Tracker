@@ -19,3 +19,6 @@ Lead Tracker is chrome extension built using HTML, CSS & Javascript. To save URL
  <br><br>
 
 <b><i>Now user can browse to any website and use extrantion to save opened website URL.</i></b>
+
+ 
+ https://github.com/ujoshidev/Lead-Tracker/assets/25796899/e9443f0e-5374-4071-aafa-c6960a1a3f7d
