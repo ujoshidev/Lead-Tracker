@@ -6,16 +6,16 @@ Lead Tracker is chrome extension built using HTML, CSS & Javascript. To save URL
 * To delete saved URL, User can double click the "DELETE ALL" button to delete saved URL/s.
 <hr>
   
-How to add extension in browser:
+<b>How to add extension in browser:</b>
   
 * Download Code/Clone Code from Git repo  (<a href="https://github.com/ujoshidev/Lead-Tracker">Lead-Tracker</a>)
 * Open browser built on chromium (eg. Google Chrome/ Edge).
 * Type "edge://extensions/" in search bar (without double quotes)
 * Enable developer mode if not enabled
 * After enabbling developer mode, Click on "Load Unpacked" button and select downloaded code folder.
+ 
+ ![Adding_Extension](https://github.com/ujoshidev/Lead-Tracker/assets/25796899/8ab7e514-bb66-4680-b3b5-a1e585f34f5a)
 * And there you have it, the extension should be added into your browser and in enables state.
  <br><br>
 
-Now user can browse to any website and use extrantion to save opened website URL.
-  
-![Screenshot Adding Extension in browser](Adding_Extension.png)
+<b><i>Now user can browse to any website and use extrantion to save opened website URL.</i></b>
